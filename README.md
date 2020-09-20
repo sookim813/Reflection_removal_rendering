@@ -30,7 +30,7 @@ This code is based on tensorflow, and has been tested on Ubuntu 16.04 LTS.
 
 
 ## Testing
-* Download [pre-trained model](https://drive.google.com/file/d/1xah0rAzWA2NzsGRiA6bGb78DjeITC_n8/view?usp=sharing)
+* Download [pre-trained model](https://drive.google.com/file/d/1VKTs8MbASmFkzyh0JtIznORG1QutgqKr/view?usp=sharing)
 * `$ tar -xvzf pre-trained.tar.gz`
 * Check a newly created folder `pre-trained`, whether downloaded model files are in that folder.
 * Example test images are provided in `test_imgs/blended`.
